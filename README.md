@@ -1,4 +1,4 @@
 # Desafio de Projeto sobre Git/Github
-Reposit
+Repositorio criado para o desafio de projeto
 
 ## Links 
